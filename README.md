@@ -1,16 +1,14 @@
 Bot Altyapı Projesine Hoşgeldin!
 =================
- Bu Dosya Tamamen `Emirhan Saraç'a Aittir`. Bot Altyapısını Sizlerin Kullanması İçin Verdik Gerekli Modüller Yüklüdür..!
+ Bu Dosya Tamamen `Fatih'e Aittir`. Bot Altyapısını Sizlerin Kullanması İçin Verdik Gerekli Modüller Yüklüdür..!
 
-[Resmi Discord Sunucumuz](https://discord.gg/cv45tPg)
+[Resmi Discord Sunucumuz](https://discord.gg/jXhFgsu)
 
-[Resmi Youtube Kanalımız](https://www.youtube.com/channel/UCVRhrcoG6FOvHGKehYtvKHg?view_as=subscriber)
+[Resmi İnstagram Hesabımız](https://www.instagram.com/fatihsen4321/)
 
-[Resmi İnstagram Hesabımız](https://www.instagram.com/emirhansarac06/)
-
-Discord.js v12 Bu Altyapıda Çalışmaz. Discord.js'yi Güncellemeyin!
+Bu benim botum gidin kendiniz yapın
 
 -------------------
 
-`İyi Kodlamalar ay iyi düzeltmeler`
+`Bunu kopyalayanlara hakkımı helal etmem :)`
 
